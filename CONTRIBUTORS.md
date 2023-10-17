@@ -3178,6 +3178,8 @@
 
 - [@Jaanism](https://github.com/jaanism)
 
+- [@jac0313](https://github.com/jac0313)
+
 - [@Jacek2003](https://github.com/jacek2003)
 
 - [@Jackcaldwellnichols](https://github.com/JackCaldwellNichols)
@@ -9580,8 +9582,6 @@
 - [@masonthedev](https://github.com/masonthedev)
 
 - [@NegativE333](https://github.com/NegativE333/)
-
-- [@jac0313](https://github.com/jac0313)
 
 - [@Raka1104](https://github.com/Raka1104)
 
